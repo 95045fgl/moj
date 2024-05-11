@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.Form2.resources
+c:\users\hp\documents\visual studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\zxc\zxc\bin\Debug\zxc.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\zxc\zxc\bin\Debug\zxc.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\zxc\zxc\bin\Debug\zxc.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\zxc\zxc\obj\x86\Debug\zxc.pdb
